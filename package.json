@@ -1,0 +1,10 @@
+{
+  "name": "ccm_assets",
+  "description": "fonts and other stuff",
+  "version": "0.0.0",
+  "keywords": ["font", "glyphicons"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jason-zhai/ccm_assets.git"
+  }
+}
